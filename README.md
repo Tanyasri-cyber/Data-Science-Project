@@ -60,3 +60,7 @@ pip install streamlit pandas plotly scikit-learn seaborn matplotlib joblib openp
 
 ---
 
+## streamlit implementation url
+
+http://localhost:8502/
+
